@@ -470,7 +470,8 @@ h1{
 ![Alt text](31.png)
 ![Alt text](32.png)
 ![Alt text](33.png)
-![Alt text](34.png)
+![34](https://github.com/ArunmozhiVarmanT/softweb/assets/144870523/5f6b75e1-b7f9-4698-9729-001f159c8317)
+
 
 
 
